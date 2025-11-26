@@ -22,30 +22,8 @@ A proposal for unified operational intelligence at Unlox.
 </div>
 
 <div class="abs-br m-6 text-xl">
-  Tomorrow's Gadget Lab (CC014)
+  Tomorrow's Gadget Lab (CC05)
 </div>
----
-layout: default
----
-
-# The Core Question: To Expand or Not to Expand?
-
-A critical strategic question for Unlox is whether to expand into physical training centers within the next 12-24 months.
-
-<br>
-
-<div v-click>
-
-This decision is immensely complicated by our current operational constraints.
-
-Without a unified view of our data, we cannot effectively:
-- Forecast the profitability of new centers.
-- Allocate resources between digital and physical offerings.
-- Ensure consistent service quality during expansion.
-- Coordinate between digital and physical teams.
-
-</div>
-
 ---
 layout: default
 ---
@@ -71,6 +49,65 @@ Our current state of analytics relies on:
 This leads to a fragmented view of the business, making strategic decisions risky and reactive.
 
 </div>
+</div>
+
+---
+layout: default
+---
+
+# The Core Question: To Expand or Not to Expand?
+
+A critical strategic question for Unlox is whether to expand into physical training centers within the next 12-24 months.
+
+<br>
+
+<div v-click>
+
+This decision is immensely complicated by our current operational constraints.
+
+Without a unified view of our data, we cannot effectively:
+- Forecast the profitability of new centers.
+- Allocate resources between digital and physical offerings.
+- Ensure consistent service quality during expansion.
+- Coordinate between digital and physical teams.
+
+</div>
+
+---
+layout: two-cols-header
+---
+
+### A Data-Driven Decision
+
+
+::left::
+
+### Key Placeholder Metrics
+
+| Metric                               | Digital | Physical (Proj. Y1) |
+| ------------------------------------ |:-------:|:-------------------:|
+| **Profit Margin**                    |   45%   |        -15%         |
+| **Customer Acquisition Cost (CAC)**  |   Rs50   |       Rs250        |
+| **Market Trend**                     | Growth  |      Contraction    |
+| **Operational Complexity**           |   Low   |         High        |
+
+<br>
+<p class="text-xs">Data is simulated for illustrative purposes. Real data is needed for a final decision.</p>
+
+::right::
+
+### Recommendation: Defer Physical Expansion
+
+<div v-click>
+
+The data, even in this simplified form, points to a clear conclusion:
+
+1.  **Focus on Profitability:** Our digital offerings are highly profitable. Physical expansion carries significant initial risk and negative returns.
+2.  **Optimize Resources:** We should double down on our low-CAC digital channels rather than investing in high-CAC physical locations.
+3.  **Follow the Market:** Competitors are shifting to hybrid models, not expanding physical footprints.
+
+**The Verdict:** Strengthen our digital core and data capabilities first. This is where the real opportunity lies.
+
 </div>
 
 
@@ -107,8 +144,11 @@ layout: two-cols-header
 
 ::right::
 
-<img src="https://i.imgur.com/6s8x3Z6.png" alt="A simple dashboard showing charts and graphs" class="rounded-lg" />
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg"</iframe>
+
 <p class="text-xs text-center">Current iteration of EdObserver Studio interface. <br>(missing many features: Just a Prototype for now!)</p>
+
+https://jack-pots.github.io/TGL-CaseCraft-Submission-Website
 
 ---
 layout: default
