@@ -144,11 +144,29 @@ layout: two-cols-header
 
 ::right::
 
-<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg"</iframe>
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg" width="400" height="300"</iframe>
 
 <p class="text-xs text-center">Current iteration of EdObserver Studio interface. <br>(missing many features: Just a Prototype for now!)</p>
 
 https://jack-pots.github.io/TGL-CaseCraft-Submission-Website
+
+
+---
+layout: 'two-cols-header'
+---
+
+# Live Demo
+
+We deployed a prototype to jot down what we were imagining with our concept! :D
+
+::left::
+
+
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg h-full w-half" </iframe>
+
+::right::
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" alt="QR Code to Website" class="h-full rounded-lg" style="image-rendering: pixelated;"> 
 
 ---
 layout: default
