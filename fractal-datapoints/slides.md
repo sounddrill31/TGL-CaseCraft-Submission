@@ -24,6 +24,8 @@ A proposal for unified operational intelligence at Unlox.
 <div class="abs-br m-6 text-xl">
   Tomorrow's Gadget Lab (CC05)
 </div>
+
+<!-- Welcome everyone. We are Tomorrow's Gadget Lab, and we're here to talk about data-driven decisions. -->
 ---
 layout: default
 ---
@@ -51,6 +53,8 @@ This leads to a fragmented view of the business, making strategic decisions risk
 </div>
 </div>
 
+<!-- Emphasize the pain point: we're flying blind and it's costing us. -->
+
 ---
 layout: default
 ---
@@ -72,6 +76,8 @@ Without a unified view of our data, we cannot effectively:
 - Coordinate between digital and physical teams.
 
 </div>
+
+<!-- Frame this as the single most important strategic question facing Unlox right now. -->
 
 ---
 layout: two-cols-header
@@ -110,6 +116,8 @@ The data, even in this simplified form, points to a clear conclusion:
 
 </div>
 
+<!-- Explain that CAC means Customer Acquisition Cost - the price to get one new customer. -->
+
 
 ---
 layout: center
@@ -123,6 +131,8 @@ A simple, efficient, and tasteful dashboarding solution.
 It does one job, and does it well: **Provide clear, consolidated metrics for confident decision-making.**
 
 No more hunting for data. No more conflicting reports. Just the insights you need, when you need them.
+
+<!-- Position EdObserver as the direct, logical solution to the problem we just demonstrated. -->
 
 ---
 layout: two-cols-header
@@ -150,6 +160,8 @@ layout: two-cols-header
 
 https://jack-pots.github.io/TGL-CaseCraft-Submission-Website
 
+<!-- Key takeaways are 'easy', 'embeddable', and 'organized'. The iframe shows a live prototype. -->
+
 
 ---
 layout: 'two-cols-header'
@@ -168,6 +180,8 @@ We deployed a prototype to jot down what we were imagining with our concept! :D
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" alt="QR Code to Website" class="h-full rounded-lg" style="image-rendering: pixelated;"> 
 
+<!-- Encourage the audience to scan the QR code and explore the prototype on their own devices. -->
+
 ---
 layout: default
 ---
@@ -184,6 +198,8 @@ graph LR
 ```
 
 This streamlined process ensures that employees can get from raw data to actionable insight in minutes, not hours.
+
+<!-- Walk through the four steps to show how quickly users can get value. -->
 
 ---
 layout: center
@@ -203,6 +219,8 @@ With a solid foundation for data consolidation, we can unlock future capabilitie
 
 Enabling us to answer the big questions, like physical expansion, with confidence.
 
+<!-- This is the "what's next" - paint a picture of a smarter, more data-fluent Unlox. -->
+
 ---
 layout: center
 class: text-center
@@ -215,3 +233,5 @@ class: text-center
 <div class="abs-br m-6">
   Tomorrow's Gadget Lab
 </div>
+
+<!-- Open the floor for questions and thank them for their time. -->
