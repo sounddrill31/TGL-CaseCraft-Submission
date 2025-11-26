@@ -3,7 +3,7 @@ theme: seriph
 title: 'EdObserver Studio'
 info: |
   A proposal for unified operational intelligence at Unlox.
-  Team: Tomorrow's Gadget Lab (CC05)
+  Team: Tomorrow's Gadget Lab (CC014)
   Date: 2025-11-26
 class: text-center
 transition: slide-left
@@ -22,7 +22,7 @@ A proposal for unified operational intelligence at Unlox.
 </div>
 
 <div class="abs-br m-6 text-xl">
-  Tomorrow's Gadget Lab (CC05)
+  Tomorrow's Gadget Lab (CC014)
 </div>
 
 <!-- Welcome everyone. We are Tomorrow's Gadget Lab, and we're here to talk about data-driven decisions. -->
