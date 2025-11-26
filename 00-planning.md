@@ -20,6 +20,19 @@
     - Career focused courses -> How many enrolled?
     - Learning companions -> Do people actually use them? For how long? 
     - Learner satisfaction -> actual metrics beyond a 5-star
+ 
+- Should Unlox expand into physical training centres to complement its digital ecosystem within the next 12-24 months?
+    - If **yes**, what geographic focus, domain prioritization, and organizational safeguards should guide the expansion?
+        - Expanding into physical centres would require simultaneously managing:
+          1. Digital platforms
+          2. 2-5+ Physical Location
+          3. Each with distinct operational needs
+          4. Staff coordination requirements
+          5. Performance tracking demands
+    - If **no**, what alternative strategies should Unlox pursue to remain competitive in an increasingly hybrid market?
+- This decision is complicated by Unlox's current operational constraints.
+- Without integrated real-time visibility into business performance and the ability to rapidly make cross-functional decisions, leadership would face significant coordination
+challenges, delayed tracking of centre profitability, difficulty allocating resources, and potential service quality degradation across both channels
 
 ### Random Notes:
 - Also balance new ideas and culture-fit. 
