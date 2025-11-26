@@ -15,7 +15,10 @@
 ### Questions/Train of Thought: 
 - How does this integrate with rest of the CRM/ERP software?
 - EdTech -> How to justify itself???
-    - I see 
+    - I see that there are a lot of in-person, offline and hybrid courses. Why? For what purpose?
+        - Are we making enough money off it? 
+        - Are the competitors doing it better?
+        - Are we allocating resources correctly?
 - Is the proposed model useful? `Answer that comes to me: Well, kinda.`
     - Career focused courses -> How many enrolled?
     - Learning companions -> Do people actually use them? For how long? 
@@ -44,8 +47,16 @@ challenges, delayed tracking of centre profitability, difficulty allocating reso
 
 
 ### Important KPIs, Requirements, Technical Non-Negotiables:
+- Ease of use: Any public google sheets link to easily import stuff(promise auth support for real-world solution but for now public only) 
+- iframe generation/live image
+- Unique ID per project
+
+
 
 
 ### Presentation Setup:
 - Perplexity Pro for initial presentation
 - Slidev with custom CSS, proper presentation based on info here and on the sheet!
+
+# ONE THING IS CLEAR
+### Unlox does not have a clear way to consolidate these metrics and derive useful predictions beyond one-off python matplotlib charts or Looker Studio which, by itself does not cleanly integrate with ERP and 
