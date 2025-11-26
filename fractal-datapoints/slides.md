@@ -173,7 +173,7 @@ layout: two-cols-header
 
 ::right::
 
-<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website?sheet=https://docs.google.com/spreadsheets/d/1i-o8AmTZYtTI6p5uFLhf9YLOWDoEEToHZkccME2lv0g/" class="rounded-lg" width="400" height="300"</iframe>
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg" width="400" height="300"</iframe>
 
 <p class="text-xs text-center">Current iteration of EdObserver Studio interface. <br>(missing many features: Just a Prototype for now!)</p>
 
@@ -193,11 +193,11 @@ We deployed a prototype to jot down what we were imagining with our concept! :D
 ::left::
 
 
-<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg h-full w-half" </iframe>
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website?sheet=https://docs.google.com/spreadsheets/d/1i-o8AmTZYtTI6p5uFLhf9YLOWDoEEToHZkccME2lv0g" class="rounded-lg h-full w-half" </iframe>
 
 ::right::
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" alt="QR Code to Website" class="h-full rounded-lg" style="image-rendering: pixelated;"> 
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jack-pots.github.io/TGL-CaseCraft-Submission-Website?sheet=https://docs.google.com/spreadsheets/d/1i-o8AmTZYtTI6p5uFLhf9YLOWDoEEToHZkccME2lv0g" alt="QR Code to Website" class="h-full rounded-lg" style="image-rendering: pixelated;"> 
 
 <!-- Encourage the audience to scan the QR code and explore the prototype on their own devices. -->
 
