@@ -154,7 +154,7 @@ layout: two-cols-header
 
 ::right::
 
-<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website" class="rounded-lg" width="400" height="300"</iframe>
+<iframe src="https://jack-pots.github.io/TGL-CaseCraft-Submission-Website?sheet=https://docs.google.com/spreadsheets/d/1i-o8AmTZYtTI6p5uFLhf9YLOWDoEEToHZkccME2lv0g/" class="rounded-lg" width="400" height="300"</iframe>
 
 <p class="text-xs text-center">Current iteration of EdObserver Studio interface. <br>(missing many features: Just a Prototype for now!)</p>
 
