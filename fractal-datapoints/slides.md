@@ -110,14 +110,33 @@ The data, even in this simplified form, points to a clear conclusion:
 
 1.  **Focus on Profitability:** Our digital offerings are highly profitable. Physical expansion carries significant initial risk and negative returns.
 2.  **Optimize Resources:** We should double down on our low-CAC digital channels rather than investing in high-CAC physical locations.
-3.  **Follow the Market:** Competitors are shifting to hybrid models, not expanding physical footprints.
+3.  **Follow the Market:** Competitors are shifting to hybrid models, not expanding <br>physical footprints<sub>unless they are digital-first already</sub>
 
-**The Verdict:** Strengthen our digital core and data capabilities first. This is where the real opportunity lies.
 
 </div>
 
 <!-- Explain that CAC means Customer Acquisition Cost - the price to get one new customer. -->
 
+---
+layout: center
+class: text-center
+
+---
+
+# The Verdict
+
+Strengthen our digital core and data capabilities first. This is where the real opportunity lies.
+Limit expansion to 2 to 5 physical centers.
+
+Focus on lesser-known cities with less saturation of edtech-related competetion.
+
+<div class="mt-8 p-4 bg-gray-800 rounded-lg">
+<div class="text-lg">Do it simple, do it well,<br> prioritizing hybrid learning.</div>
+</div>
+
+Physical/In-person is excellent for hands-on mentorship while digital mode is excellent for learning a lot of things quickly. Capitalize on that, forming an effective and formidable balance!
+
+This works really well as physical centers are a introduction to our EdTech offerings, and can be considered loss leaders.
 
 ---
 layout: center
